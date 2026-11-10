@@ -1,0 +1,10 @@
+                       precision    recall  f1-score   support
+
+         hyperthyroid       0.20      0.97      0.34        36
+          hypothyroid       0.42      0.81      0.55       119
+non_thyroidal_illness       0.26      0.79      0.39        87
+               normal       0.98      0.67      0.80      1355
+
+             accuracy                           0.70      1597
+            macro avg       0.46      0.81      0.52      1597
+         weighted avg       0.88      0.70      0.75      1597
